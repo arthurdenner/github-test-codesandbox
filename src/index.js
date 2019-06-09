@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>Start editing to see some magic happen!</h2>
-      <h3>sup4</h3>
+      <h3>fixed?</h3>
     </div>
   );
 }
